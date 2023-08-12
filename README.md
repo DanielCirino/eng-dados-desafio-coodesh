@@ -21,7 +21,7 @@ Comando: <code>jupyter lab</code>
 dos títulos das plataformas
 
 
-### Diagrama de Entidade e Relaconamento
+### Diagrama de Entidade e Relacionamento
 
 ![img_1.png](img_1.png)
 MER Desafio Coodesh
