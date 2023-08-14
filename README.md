@@ -24,6 +24,8 @@ podendo esta base ser utilizada para realização de análises e geração de in
 3. Análise dos dados da base unificada para extração de informações
 4. Criação de dashboard para visulização e iteração com os dados
 
+## Link para apresentação da solução
+> https://www.loom.com/share/485ac4b987c041b699824b433f3df651?sid=e4a9c220-3306-4a0a-bcb6-acaba5556729
 ## Instruções de uso do projeto
 * Copie o conteúdo deste repositório, usando <code>git clone</code> ou baixando o *.zip do projeto
 * Instale as bibliotecas Python do projeto, presentes no arquivo <code>requirements.txt</code>
