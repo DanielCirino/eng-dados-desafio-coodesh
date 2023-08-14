@@ -1,6 +1,10 @@
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 # Data Challenge Coodesh - Plataformas de streaming
-Desafio técnico proposto pela Coodesh para avaliação das competências para Data Engineer, com objetivo de processar datasets de diferentes plataformas, gerar dados para análise e extração de informações.
+Desafio técnico proposto pela Coodesh para avaliação das competências para Data Engineer
+
+# Objetivo
+O desafio tem como gerar um dataset unificado com dados das plataformas de streaming Netflix e Amazon Prime,
+podendo esta base ser utilizada para realização de análises e geração de insides para responder questões de negócio.
 
 ### Stack
 * Python
