@@ -7,6 +7,7 @@ Desafio técnico proposto pela Coodesh para avaliação das competências para D
 * Pandas
 * MatplotLib
 * Jupyter Notebooks
+* Power BI
 
 ## Instruções de uso do projeto
 * Copie o conteúdo deste repositório, usando <code>git clone</code> ou baixando o *.zip do projeto
@@ -19,11 +20,22 @@ Comando: <code>jupyter lab</code>
 * diretório <code>/data</code> contém os datasets dos títulos das plataformas e as informações sobre os dados
 * diretório <code>/analytics</code> contém os datasets gerados a partir do processamento dos datasets 
 dos títulos das plataformas
-
+* Arquivo <code>[01_processamento_dados.ipynb](01_processamento_dados.ipynb)</code> é notebook responsável por realizar a etapa de análise e processamento dos dados pra gerar os
+os datasets finais para as análises.
+* Arquivo <code>[02_analise_dados.ipynb](02_analise_dados.ipynb)</code> é notebook contém as análises realizadas para responder as questões de negócio
+* Arquivo <code>[dashboard.pbix](dashboard.pbix)</code> é dashboard criado no Power BI para realização de análises interativas 
+dos dados gerados pelo processamento.
 
 ### Diagrama de Entidade e Relacionamento
+Este é o modelo de dados definido com base na análise dos dados originais.
+Após o processamento dos arquivos de  cada plataforma, foram gerados novos arquivos *.csv
+que representam este modelo que pode ser reproduzido em um banco de dados relacional se for necessário.
 
+![img.png](img.png)
+<p>MER Desafio Coodesh</p>
+
+### Dashboard catálogo das plataformas de streaming
 ![img_1.png](img_1.png)
-MER Desafio Coodesh
+<p>Dashboard Power Bi</p>
 
 
