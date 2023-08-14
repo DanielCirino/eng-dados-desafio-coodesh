@@ -1,6 +1,6 @@
 >  This is a challenge by [Coodesh](https://coodesh.com/)
-# Data Challenge Coodesh
-Desafio técnico proposto pela Coodesh para avaliação das competências para Data Engineer
+# Data Challenge Coodesh - Plataformas de streaming
+Desafio técnico proposto pela Coodesh para avaliação das competências para Data Engineer, com objetivo de processar datasets de diferentes plataformas, gerar dados para análise e extração de informações.
 
 ### Stack
 * Python
