@@ -15,6 +15,9 @@ Desafio técnico proposto pela Coodesh para avaliação das competências para D
 Comando: <code>pip install -r requirements.txt</code>
 * Execute o Jupyter Lab para iniciar o servidor para executar os notebooks.
 Comando: <code>jupyter lab</code>
+* Deve ser executado o notebook <code>[01_processamento_dados.ipynb](01_processamento_dados.ipynb)</code> primeiro e
+depois o <code>[01_processamento_dados.ipynb](01_processamento_dados.ipynb)</code>.
+* Após a execução do processamento, abra o projeto do dashboard (<code>[dashboard.pbix](dashboard.pbix)</code>) no Power BI e atualize a referência das fontes de dados para os arquivos gerados no diretório <code>/analytics</code>.
 
 ## Estrutura do projeto
 * diretório <code>/data</code> contém os datasets dos títulos das plataformas e as informações sobre os dados
