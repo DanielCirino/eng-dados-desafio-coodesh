@@ -9,6 +9,11 @@ Desafio técnico proposto pela Coodesh para avaliação das competências para D
 * Jupyter Notebooks
 * Power BI
 
+## Etapas para desenvolimento da solução
+1. Análise e processamento dos dados originais, para identificação de erros, leitura dos arquivo, processamento de dados e geração de base unificada.
+2. Análise dos dados da base unificada para extração de informações
+3. Criação de dashboard para visulização e iteração com os dados
+
 ## Instruções de uso do projeto
 * Copie o conteúdo deste repositório, usando <code>git clone</code> ou baixando o *.zip do projeto
 * Instale as bibliotecas Python do projeto, presentes no arquivo <code>requirements.txt</code>
