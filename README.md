@@ -10,9 +10,15 @@ Desafio técnico proposto pela Coodesh para avaliação das competências para D
 * Power BI
 
 ## Etapas para desenvolimento da solução
-1. Análise e processamento dos dados originais, para identificação de erros, leitura dos arquivo, processamento de dados e geração de base unificada.
-2. Análise dos dados da base unificada para extração de informações
-3. Criação de dashboard para visulização e iteração com os dados
+1. Análise e processamento dos dados originais
+   * Validação da documentação
+   * Higienização dos dados
+   * Validação de duplicidades
+   * Modelagem dos dados em modelo relacional
+   * Extração e transformação de dados
+   * Geração da base unificada de streaming preservando o identificador único e identificando a plataforma
+3. Análise dos dados da base unificada para extração de informações
+4. Criação de dashboard para visulização e iteração com os dados
 
 ## Instruções de uso do projeto
 * Copie o conteúdo deste repositório, usando <code>git clone</code> ou baixando o *.zip do projeto
